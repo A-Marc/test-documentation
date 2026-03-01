@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/marc/Bureau/armada/documentation",
+	"sourceRoot": "/home/marc/Bureau/l/documentation",
 	"sources": [
 		"node_modules/docsy/assets/scss/main.scss",
 		"node_modules/docsy/assets/scss/td/_main.scss",

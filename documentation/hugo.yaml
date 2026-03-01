@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://a-marc.github.io/test-documentation/
 title: Armada Documentation
 theme: docsy
 themesDir: node_modules
@@ -32,3 +32,4 @@ params:
 
 module:
   proxy: direct
+  replacements: github.com/FortAwesome/Font-Awesome -> @fortawesome/fontawesome-free, github.com/twbs/bootstrap -> bootstrap
