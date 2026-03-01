@@ -1,0 +1,34 @@
+baseURL: https://example.org/
+title: Armada Documentation
+theme: docsy
+themesDir: node_modules
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    languageName: English
+    params:
+      description: Technical documentation for the Armada project
+    contentDir: content
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+
+params:
+  taxonomy_cloud: []
+  ui:
+    navbar_logo: false
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: true
+    breadcrumb_disable: false
+
+module:
+  proxy: direct
