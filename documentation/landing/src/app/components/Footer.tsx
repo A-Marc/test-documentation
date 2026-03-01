@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="bg-gray-900 text-white py-12 px-6">
       <div className="max-w-4xl mx-auto">
         <div className="flex flex-col items-center text-center gap-6 mb-10">
-          <img src="/logo-footer.png" alt="Armada" className="h-28 w-auto" />
+          <img src="logo-footer.png" alt="Armada" className="h-28 w-auto" />
           <p className="text-gray-400 font-light text-sm">
             Scale Your Bots & Scrapers. Effortlessly.
           </p>

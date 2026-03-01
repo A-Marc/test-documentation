@@ -7,7 +7,7 @@ export function Hero() {
     <div className="min-h-screen flex flex-col px-6 py-8">
       {/* Logo top-left */}
       <div>
-        <img src="/logo.png" alt="Armada" className="h-40 w-auto" />
+        <img src="logo.png" alt="Armada" className="h-40 w-auto" />
       </div>
 
       <div className="flex-1 flex items-center">
@@ -64,7 +64,7 @@ export function Hero() {
             className="relative"
           >
             <object
-              data="/animation.svg"
+              data="animation.svg"
               type="image/svg+xml"
               className="w-full max-w-lg mx-auto rounded-xl shadow-lg overflow-hidden"
               style={{ aspectRatio: "600/900" }}

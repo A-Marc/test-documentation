@@ -30,7 +30,7 @@ export function SupportedDrivers() {
           className="mb-12"
         >
           <img
-            src="/supported-drivers.png"
+            src="supported-drivers.png"
             alt="Supported drivers overview"
             className="w-full rounded-xl"
           />

@@ -21,7 +21,7 @@ export default function App() {
         description="A Kubernetes-based architecture that centralizes business logic and configuration management while distributing task execution across scalable workers."
         diagramSlot={
           <img
-            src="/deployment-flow.svg"
+            src="deployment-flow.svg"
             alt="Deployment flow diagram"
             className="w-full rounded-xl"
           />
