@@ -3,8 +3,8 @@ import { Github, BookOpen, Map, Users, Scale, Play } from "lucide-react";
 
 const links = [
   { label: "Github", icon: Github, href: "https://github.com/armadasvc/armada" },
-  { label: "Documentation", icon: BookOpen, href: "/docs" },
-  { label: "Next Steps (Roadmap)", icon: Map, href: "/docs/reference/next-steps/" },
+  { label: "Documentation", icon: BookOpen, href: "docs" },
+  { label: "Next Steps (Roadmap)", icon: Map, href: "docs/reference/next-steps/" },
   { label: "Contributing", icon: Users, href: "https://github.com/armadasvc/armada/blob/master/CONTRIBUTING.md" },
   { label: "License", icon: Scale, href: "https://github.com/armadasvc/armada/blob/master/LICENSE" },
   { label: "Demo Video", icon: Play, href: "https://github.com/user-attachments/assets/bfc55866-c84a-4ae2-a92b-2dfabf6c6350" },
